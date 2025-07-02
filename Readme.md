@@ -5,7 +5,7 @@ This project analyzes synthetic e-commerce transaction data to identify seasonal
 ---
 ## 📸 Dashboard Preview
 
-![E-commerce Dashboard](images/Screenshot 2025-07-02 at 11.50.16 PM.png)
+![E-commerce Dashboard](images/Dasboard.png)
 
 ---
 
